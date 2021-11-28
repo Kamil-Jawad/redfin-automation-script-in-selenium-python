@@ -2,6 +2,7 @@
 automate redfin website in selenium python
 
 requirements:
+
 python
 selenium
 pandas
