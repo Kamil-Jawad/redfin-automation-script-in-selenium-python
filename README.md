@@ -3,10 +3,10 @@ automate redfin website in selenium python
 
 requirements:
 
-python
-selenium
-pandas
-re (regex)
+python,
+selenium,
+pandas,
+re (regex),
 time
 
 Summary:
